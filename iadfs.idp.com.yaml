@@ -1,2 +1,5 @@
 ---
 role: 'role::windows::base'
+
+classes:
+- 'role::windows::base'
