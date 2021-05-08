@@ -1,3 +1,2 @@
 ---
 role: 'roles::windows::base'
-test: 'CCM'
