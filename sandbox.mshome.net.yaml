@@ -1,2 +1,2 @@
 ---
-role: 'roles::centos::base'
+role: 'roles::windows::base'
